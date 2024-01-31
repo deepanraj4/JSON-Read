@@ -1,0 +1,36 @@
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "Cake",
+	"ppu": 0.55,
+	"batters": {
+		"batter": [
+			{
+				"id": "1001",
+				"type": "regular"
+			},
+			{
+				"id": "1002",
+				"type": "chocolate"
+			},
+			{
+				"id": "1003",
+				"type": "bluberry"
+			},
+			{
+				"id": "1004",
+				"type": "deveil's food"
+			}
+		]
+	},
+	
+	"topping":		
+	[{"id":"5001","type":"None"},
+	{"id":"5002","type":"glazed"},
+	{"id":"5003","type":"sugar"},
+	{"id":"5004","type":"powdered sugar"},
+	{"id":"5005","type":"chocolate with sprinkles"},
+	{"id":"5006","type":"chocolate"},
+	{"id":"5007","type":"maple"}]
+	
+	}

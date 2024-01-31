@@ -1,0 +1,18 @@
+{
+	"Name": "Deepanraj",
+	"Age": "27",
+	"Location": "Chennai",
+	"Status": "True",
+	"Address": {
+		"Street": "Gandhinagar",
+		"City": "Chennai",
+		"Pincode": "600001"
+	},
+	"courses": [
+		"java",
+		"selenium",
+		"api"]
+}
+
+
+
